@@ -26,8 +26,8 @@ Retrieves details of a user by their user ID.
 
 + **Endpoint URL:** /users_details/
 + **Method:** GET
-+ **Query Parameters: **user_id (integer) - ID of the user whose details are to be retrieved.
-+ **Response: **Returns details of the specified user including name, email, referral code, and timestamp.
++ **Query Parameters:** user_id (integer) - ID of the user whose details are to be retrieved.
++ **Response:** Returns details of the specified user including name, email, referral code, and timestamp.
 
 __GET /referral_details/__
 
