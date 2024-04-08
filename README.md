@@ -1,6 +1,8 @@
 ## FastAPI Referral System
 This FastAPI application provides a referral system with endpoints for user registration, authentication, and retrieving user details.
 
+![image](https://github.com/afrah10shabbeer/Referral-System-API/assets/50787871/b939bda5-7219-4af7-a66c-10bfc16348a1)
+
 ## Endpoints
 __POST /register/__
 
